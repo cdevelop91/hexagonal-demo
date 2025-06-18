@@ -1,0 +1,67 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+# Eclipse/STS
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VSCode
+.vscode/
+
+# Environment and local configs
+.env
+*.local
+*.env.*
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Lombok generated
+*.lombok.config
+
+# Misc
+*.bak
+*.swp
+
+# Test reports
+surefire-reports/
+jacoco.exec
+
+# Spring Boot devtools
+.spring-boot-devtools.properties
+
+# Backup ZIPs or builds
+*.zip
+*.tar.gz
+
+# Node/Frontend (por si algún día integras frontend)
+node_modules/
+dist/
+
+
+.factorypath
